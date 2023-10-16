@@ -14,4 +14,18 @@ I chose a star schema for this project. This will allow more flexibility for que
 
 ![image info](https://github.com/ltd08a/data-modeling-with-postgres/blob/main/Star-Schema.png)
 
+### Project Files
 
+create_files.py: A script used to drop and create tables. Run this script before you run your other scripts. 
+etl.ipynb: This notebook contains the details of the ETL process.
+etl.py: Uses data from the etl.ipynb notebook to extract and insert data into your tables. 
+sql_queries.py: A script containing all of your queries. 
+test.ipynb: A notebook used to check that the data is being inserted and stored properly. 
+Star-Schema.png: An ERD generated to show the relationship in the star schema. 
+README.md: A file describing the details of teh project. 
+
+### Run The Scripts
+
+1. Run the create_files.py script through the shell to generate your database and tables. 
+2. Run the etl.py script through the shell to populate your data into the tables.
+3. Run the code in the test.ipynb notebook to confirm the data has populated. 
