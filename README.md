@@ -12,4 +12,6 @@ There were 2 JSON files used. The first was song_data, which contains various in
 
 I chose a star schema for this project. This will allow more flexibility for queries. My fact table (songplays) contains data such as songplay_id, artist_id, song_id, timestamp, and user_id to link it to the dimension tables. The dimension tables used were artists, songs, time, and users. All of the dimensional tables have a primary key derived from the fact table. 
 
-![image info]("C:\Users\logan\OneDrive\Desktop\WGU\Data Wrangling\Screenshot 2023-10-16 144614.png")
+![image info](https://github.com/ltd08a/data-modeling-with-postgres/blob/main/Star-Schema.png)
+
+
