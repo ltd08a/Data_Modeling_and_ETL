@@ -16,16 +16,16 @@ I chose a star schema for this project. This will allow more flexibility for que
 
 ### Project Files
 
-create_files.py: A script used to drop and create tables. Run this script before you run your other scripts.  
+create_files.py: A script used to drop and create tables. Run this script before the other scripts.  
 etl.ipynb: This notebook contains the details of the ETL process.  
-etl.py: Uses data from the etl.ipynb notebook to extract and insert data into your tables.  
-sql_queries.py: A script containing all of your queries.  
+etl.py: Uses data from the etl.ipynb notebook to extract and insert data into the tables.  
+sql_queries.py: A script containing all of the queries.  
 test.ipynb: A notebook used to check that the data is being inserted and stored properly.  
 Star-Schema.png: An ERD generated to show the relationship in the star schema.  
-README.md: A file describing the details of teh project.  
+README.md: A file describing the details of the project.  
 
 ### Run The Scripts
 
-1. Run the create_files.py script through the shell to generate your database and tables. 
-2. Run the etl.py script through the shell to populate your data into the tables.
+1. Run the create_files.py script through the shell to generate the database and tables. 
+2. Run the etl.py script through the shell to populate the data into the tables.
 3. Run the code in the test.ipynb notebook to confirm the data has populated. 
