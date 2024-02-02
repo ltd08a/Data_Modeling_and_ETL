@@ -18,7 +18,7 @@ I chose a star schema for this project. This will allow more flexibility for que
 
 ![image info](https://github.com/ltd08a/data-modeling-with-postgres/blob/main/Star-Schema.png)
 
-### Project Files
+### Files
 
 create_files.py: A script used to drop and create tables. Run this script before the other scripts.  
 etl.ipynb: This notebook contains the details of the ETL process.  
