@@ -10,7 +10,7 @@ Jupyter Notebook
 
 ### Language(s)
 
-PostgreSQL
+PostgreSQL  
 Python
 
 ### Competencies
