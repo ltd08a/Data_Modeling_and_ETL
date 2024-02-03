@@ -6,7 +6,7 @@ The purpose of this project was to take raw data from Sparkify and model it into
 
 ### Environment(s)
 
-Jupyter Notebook
+Jupyter Notebook  
 pgAdmin4
 
 ### Competencies
