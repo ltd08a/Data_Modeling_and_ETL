@@ -1,13 +1,17 @@
-# Data Modeling and ETL with Postgres and Python
+# Data Modeling and ETL with PostgreSQL and Python
 
 ### Project Description
 
-The purpose of this project was to take raw data from Sparkify and model it into a form that can be easily used for analysis. There were two raw JSON files used to draw data from. I had to build an ETL pipeline to get the data that was needed to perform the analysis. I used a star schema when creating tables to make for more customizable queries. The work was done in Postgres using SQL and Python. 
+The purpose of this project was to take raw data from Sparkify and model it into a form that can be easily used for analysis. There were two raw JSON files used to draw data from. I had to build an ETL pipeline to get the data that was needed to perform the analysis. I used a star schema when creating tables to make for more customizable queries.
 
 ### Environment(s)
 
-Jupyter Notebook  
-pgAdmin4
+Jupyter Notebook
+
+### Language(s)
+
+PostgreSQL
+Python
 
 ### Competencies
 
