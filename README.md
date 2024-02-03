@@ -4,7 +4,13 @@
 
 The purpose of this project was to take raw data from Sparkify and model it into a form that can be easily used for analysis. There were two raw JSON files used to draw data from. I had to build an ETL pipeline to get the data that was needed to perform the analysis. I used a star schema when creating tables to make for more customizable queries. The work was done in Postgres using SQL and Python. 
 
+### Environment(s)
+
+Jupyter Notebook
+pgAdmin4
+
 ### Competencies
+
 1. Data Gathering: Conduct data extraction and wrangling with data in complex formats for parsing and scraping.
 2. Data Quality Assessment and Cleaning: Ensure data cleanliness through auditing and intervention.
 
