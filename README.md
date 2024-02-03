@@ -1,4 +1,4 @@
-# Data Modeling and ETL with PostgreSQL and Python
+# Data Modeling and ETL
 
 ### Project Description
 
