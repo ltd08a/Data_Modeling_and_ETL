@@ -7,10 +7,10 @@ Jupyter Notebook
 PostgreSQL  
 Python
 ### Libraries and Packages
-pandas
-psycopg2
-os
-glob
+pandas  
+psycopg2  
+os  
+glob  
 sql_queries
 ### Competencies
 1. Data Gathering: Conduct data extraction and wrangling with data in complex formats for parsing and scraping.
